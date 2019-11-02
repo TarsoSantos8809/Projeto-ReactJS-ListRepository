@@ -14,7 +14,7 @@
 <p><strong> Segundo passo: </strong></br></br>
 - Configuração de Rotas (Routes);
 - Estilização dos Componentes (Styled Components).
-- Criaço de Estilos Globais, são estilos utilizados por todas as routas, como um "corpo de fundo do projeto". 
+- Criaço de Estilos Globais, são estilos utilizados por todas as rotas, como um "corpo de fundo do projeto". 
 
 <p><strong> Terceiro passo: </strong></br></br>
 - Via Api REst é então, adicionado repositórios do GitHub a aplicação.
